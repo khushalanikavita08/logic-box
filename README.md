@@ -18,3 +18,5 @@ Simple exit option for program termination!
  #sample output
 ![Program Output Screenshot](https://github.com/khushalanikavita08/logic-box/blob/main/sample%20output%20(3).png)
 
+#watch video here:
+https://drive.google.com/file/d/1zBNyWz6gKTkpJgi7uqklwrc79w8dmJ0H/view?usp=drive_link
