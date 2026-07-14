@@ -15,6 +15,4 @@ Number analysis with conditional logic
 
 Simple exit option for program termination! 
 
-## 📸 Output
-View the program output demonstration: [Output Link](https://github.com/khushalanikavita08/logic-box/blob/main/README.md)
-
+ 
