@@ -14,4 +14,4 @@ Pattern generation using loops
 Number analysis with conditional logic
 
 Simple exit option for program termination
-![Pattern Generator and Number Analyzer](./path/to/your/image.png)
+![Program Output](./images/output.png)
