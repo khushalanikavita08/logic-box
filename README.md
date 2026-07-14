@@ -15,5 +15,4 @@ Number analysis with conditional logic
 
 Simple exit option for program termination! 
  
-![Project Output](https://github.com)
-
+ 
