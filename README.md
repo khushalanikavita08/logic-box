@@ -15,5 +15,6 @@ Number analysis with conditional logic
 
 Simple exit option for program termination! 
 
-[Click here to view program output](https://github.com/khushalanikavita08/logic-box/blob/main/sample%20output%20(3).png)
+ #sample output
+![Program Output Screenshot](https://github.com/khushalanikavita08/logic-box/blob/main/sample%20output%20(3).png)
 
