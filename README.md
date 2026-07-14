@@ -1,14 +1,17 @@
 # logic-box
-This Python project is a menu-driven console application with two main features:
+ 🧮 Pattern Generator and Number Analyzer
+This console-based program allows users to perform two simple tasks:
 
-Pattern Generator:
+Generate a pattern – Users enter the number of rows, and the program prints a pyramid-like pattern using asterisks (*).
 
-Takes the number of rows as input and prints a star (*) pattern.
+Analyze a range of numbers – Users input a start and end range, and the program identifies each number as odd or even, then calculates the total sum of all numbers in that range.
 
-Number Analyzer:
+💡 Features
+Interactive text-based menu system
 
-Accepts a numeric range (e.g., 5–15).
+Pattern generation using loops
 
-Displays whether each number is odd or even and calculates the sum of all numbers in that range.
-This project demonstrates basic Python concepts like loops, conditionals, user input, and arithmetic operations in an interactive terminal format.
-![Pattern Generator and Number Analyzer Output](attachments/SmggoTuRUi3aQud5Gqffe.png)
+Number analysis with conditional logic
+
+Simple exit option for program termination
+![Pattern Generator and Number Analyzer](./path/to/your/image.png)
