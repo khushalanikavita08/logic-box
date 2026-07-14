@@ -14,5 +14,6 @@ Pattern generation using loops
 Number analysis with conditional logic
 
 Simple exit option for program termination! 
+![Uploading sample output (3).png…]()
 
  
