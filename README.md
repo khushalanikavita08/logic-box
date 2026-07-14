@@ -14,5 +14,5 @@ Pattern generation using loops
 Number analysis with conditional logic
 
 Simple exit option for program termination! 
-https://github.com/khushalanikavita08/logic-box/blob/main/output.png
+
 
